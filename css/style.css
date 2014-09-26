@@ -1,8 +1,15 @@
 body {
-    background-color: crimson;
+    background-color: aquamarine;
 }
 body{
-    background-image: url(http://i0.kym-cdn.com/photos/images/newsfeed/000/417/015/c83.gif)
-    background-size: cover
+    background-image: url()  
 
+}background-size: cover
+
+h1{
+   border: 2px dashed white;
+   padding-top:  20px; 
+   padding-bottom: 20px;
+   padding-left: 50px;
+   margin: 0;
 }
